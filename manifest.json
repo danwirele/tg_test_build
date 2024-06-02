@@ -1,11 +1,11 @@
 {
-    "name": "tg_test_build",
-    "short_name": "tg_test_build",
+    "name": "flutter_telegram_web_example",
+    "short_name": "flutter_telegram_web_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Demonstrates how to use the flutter_telegram_web plugin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
